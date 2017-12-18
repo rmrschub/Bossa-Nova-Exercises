@@ -1,2 +1,4 @@
 # Bossa-Nova-Exercises
-Some Bossa Nova exercises 
+
+Use ``./compile`` to build the document. 
+This requires ``wget`` and ``pdflatex``.

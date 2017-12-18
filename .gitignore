@@ -1,0 +1,6 @@
+.DS_Store
+*.aux
+*.log
+chordbox.tcl
+gchords.sty
+includes/*.aux
